@@ -20,4 +20,4 @@ When deploying to Railway, the USERNAME and PASSWORD environment variables will 
   - **USERNAME:** random string of 16 characters
   - **PASSWORD:** random string of 32 characters
  
-**NOTE:** It is strongly advised to provide the USERNAME and PASSWORD environment variables before deploying the project.
+**NOTE:** It is strongly advised to provide the USERNAME and PASSWORD environment variables before deploying the project
