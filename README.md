@@ -2,7 +2,7 @@
 
 Want to try out Ubuntu or want to have a mini version of Ubuntu available at all times? Then feel free to give this project a try:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/E7oTLJ?referralCode=8sCkKx)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/template/SRV1Qb?referralCode=zkQBwB)
 
 ## Description
 This project uses the official [Ubuntu](https://hub.docker.com/_/ubuntu) image to deploy a container which can then be used to install most of the CLI tools. Behind the scenes, it uses [ttyd](https://github.com/tsl0922/ttyd) to provide a hassle-free and a very accessible way to access the command line.
