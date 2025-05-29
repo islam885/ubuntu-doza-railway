@@ -1,7 +1,6 @@
 FROM ubuntu:22.04
 
 RUN apt-get update && \
-    apt-get upgrade -y && \
     apt-get install -y wget curl git python3 python3-pip openssh-server && \
     mkdir /var/run/sshd
 
